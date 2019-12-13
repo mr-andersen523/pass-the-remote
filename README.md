@@ -6,4 +6,4 @@ Pass the Remote is a fun and easy-to-use web app that gives you a semi-randomize
 ![PTR Demo](assets/images/PTR_demo.gif)
 
 ## Deployed URL
-https://jaredbucko.github.io/pass-the-remote/index.html
+https://mr-andersen523.github.io/pass-the-remote/

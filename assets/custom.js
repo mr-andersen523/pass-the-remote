@@ -25,6 +25,7 @@ function movieRecommendation() {
     console.log(response);
     var x = parseInt(Math.random()*response.results.length);
     var movie = response.results[x].title;
+    var year = response.results[x].release_date.substring(0,4);
 
     $.ajax({
       url: "https://www.omdbapi.com/?apikey=63f86544&t=" + movie,
